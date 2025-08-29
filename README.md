@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Shreya Gupta 👩‍💻
 
-<!--
-**shreyagupta2990-max/shreyagupta2990-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year B.Tech Student | Thapar University  
+💻 Passionate about Coding, Tech & Innovation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- C Language & Programming Basics  
+- Data Structures & Algorithms  
+- Web Development  
+
+---
+
+### 💡 Interests
+- Artificial Intelligence & Machine Learning  
+- Open Source Contribution  
+- Competitive Programming  
+
+---
+
+### 📫 How to Reach Me
+- Email: shreyagupta2990@gmail.com  
+- GitHub: [github.com/shreyagupta2990-max](https://github.com/shreyagupta2990-max)  
+
+---
+
+### ⚡ Fun Fact
+I love combining ☕ coffee + 💻 code to create something new!  
+
+---
+
+⭐️ From [Shreya Gupta](https://github.com/shreyagupta2990-max)
